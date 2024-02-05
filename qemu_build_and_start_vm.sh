@@ -2,7 +2,7 @@
 
 #Author:tman904 aka Tyler K Monroe
 #Purpose:Downloads an OpenBSD install iso and setups qemu VM with one 8GB virtual disk ,1024Megabytes of RAM and one vNIC using tun0 on the Linux host OS
-#Version 0.0.1
+#Version:0.0.1
 #Date:2/5/2024 00:13
 
 dlfile="install$vn1$vn2.iso"
